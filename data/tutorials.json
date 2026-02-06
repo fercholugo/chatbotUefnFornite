@@ -1,0 +1,96 @@
+{
+  "tutorials": [
+    {
+      "id": "getting-started-with-uefn-0",
+      "title": "Getting Started with UEFN",
+      "description": "Learn the basics of Unreal Editor for Fortnite (UEFN). This comprehensive tutorial will guide you through the initial setup and core concepts.",
+      "url": "https://dev.epicgames.com/community/fortnite/learning/getting-started",
+      "category": "Beginner",
+      "tags": [
+        "uefn",
+        "basics",
+        "getting-started"
+      ],
+      "author": "Epic Games",
+      "date": "2024-01-15",
+      "difficulty": "Beginner",
+      "estimated_time": "30 minutes",
+      "scraped_at": "2026-02-06T23:30:00Z"
+    },
+    {
+      "id": "intro-to-verse-scripting-1",
+      "title": "Introduction to Verse Scripting",
+      "description": "Master the fundamentals of Verse, Epic's programming language for UEFN. Learn syntax, data types, and basic scripting concepts.",
+      "url": "https://dev.epicgames.com/community/fortnite/learning/verse-intro",
+      "category": "Intermediate",
+      "tags": [
+        "verse",
+        "scripting",
+        "programming"
+      ],
+      "author": "Epic Games",
+      "date": "2024-02-01",
+      "difficulty": "Intermediate",
+      "estimated_time": "1 hour",
+      "scraped_at": "2026-02-06T23:30:00Z"
+    },
+    {
+      "id": "building-custom-devices-2",
+      "title": "Building Custom Devices in UEFN",
+      "description": "Create your own custom devices and game mechanics using UEFN's powerful device system.",
+      "url": "https://dev.epicgames.com/community/fortnite/learning/custom-devices",
+      "category": "Advanced",
+      "tags": [
+        "devices",
+        "gameplay",
+        "mechanics"
+      ],
+      "author": "Epic Games",
+      "date": "2024-03-10",
+      "difficulty": "Advanced",
+      "estimated_time": "2 hours",
+      "scraped_at": "2026-02-06T23:30:00Z"
+    },
+    {
+      "id": "level-design-basics-3",
+      "title": "Level Design Basics for UEFN",
+      "description": "Learn how to design engaging game levels in UEFN. Covers layout, flow, and player experience principles.",
+      "url": "https://dev.epicgames.com/community/fortnite/learning/level-design",
+      "category": "Beginner",
+      "tags": [
+        "level-design",
+        "world-building",
+        "environment"
+      ],
+      "author": "Epic Games",
+      "date": "2024-01-20",
+      "difficulty": "Beginner",
+      "estimated_time": "45 minutes",
+      "scraped_at": "2026-02-06T23:30:00Z"
+    },
+    {
+      "id": "advanced-verse-patterns-4",
+      "title": "Advanced Verse Programming Patterns",
+      "description": "Explore advanced programming patterns and best practices in Verse for creating complex game systems.",
+      "url": "https://dev.epicgames.com/community/fortnite/learning/verse-advanced",
+      "category": "Advanced",
+      "tags": [
+        "verse",
+        "programming",
+        "patterns",
+        "advanced"
+      ],
+      "author": "Epic Games",
+      "date": "2024-03-01",
+      "difficulty": "Advanced",
+      "estimated_time": "2.5 hours",
+      "scraped_at": "2026-02-06T23:30:00Z"
+    }
+  ],
+  "metadata": {
+    "source_url": "https://dev.epicgames.com/community/fortnite/learning",
+    "total_count": 5,
+    "note": "This is demo/sample data for testing purposes",
+    "scraped_at": "2026-02-06T23:34:40.476028Z"
+  }
+}
