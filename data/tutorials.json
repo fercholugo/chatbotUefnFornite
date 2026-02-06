@@ -50,11 +50,47 @@
       "difficulty": "Advanced",
       "estimated_time": "2 hours",
       "scraped_at": "2026-02-06T23:30:00Z"
+    },
+    {
+      "id": "level-design-basics-3",
+      "title": "Level Design Basics for UEFN",
+      "description": "Learn how to design engaging game levels in UEFN. Covers layout, flow, and player experience principles.",
+      "url": "https://dev.epicgames.com/community/fortnite/learning/level-design",
+      "category": "Beginner",
+      "tags": [
+        "level-design",
+        "world-building",
+        "environment"
+      ],
+      "author": "Epic Games",
+      "date": "2024-01-20",
+      "difficulty": "Beginner",
+      "estimated_time": "45 minutes",
+      "scraped_at": "2026-02-06T23:30:00Z"
+    },
+    {
+      "id": "advanced-verse-patterns-4",
+      "title": "Advanced Verse Programming Patterns",
+      "description": "Explore advanced programming patterns and best practices in Verse for creating complex game systems.",
+      "url": "https://dev.epicgames.com/community/fortnite/learning/verse-advanced",
+      "category": "Advanced",
+      "tags": [
+        "verse",
+        "programming",
+        "patterns",
+        "advanced"
+      ],
+      "author": "Epic Games",
+      "date": "2024-03-01",
+      "difficulty": "Advanced",
+      "estimated_time": "2.5 hours",
+      "scraped_at": "2026-02-06T23:30:00Z"
     }
   ],
   "metadata": {
     "source_url": "https://dev.epicgames.com/community/fortnite/learning",
-    "total_count": 3,
-    "scraped_at": "2026-02-06T23:31:52.005063Z"
+    "total_count": 5,
+    "note": "This is demo/sample data for testing purposes",
+    "scraped_at": "2026-02-06T23:34:40.476028Z"
   }
 }
